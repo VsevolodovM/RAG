@@ -1,0 +1,152 @@
+Scope
+§ 1. This Ordinance shall apply to the services of the federal government with the exception of the bodies and institutions mentioned in § 1 para. 2 of the Information Security Act. 
+Classified information
+§ 2. (1) Classified information within the meaning of this Ordinance is information and material designated as classified as well as news which – regardless of the format of presentation and data carrier – require special protection against disclosure and access by unauthorised persons for the reasons mentioned in § 2 paras. 1 and 2 of the Information Security Act. 
+(2) Classified information may consist particularly in:
+	1.	written documents; 
+
+
+
+
+
+
+
+
+Classification levels
+§ 3. (1) Classified information shall be qualified as 
+	1.	“EINGESCHRÄNKT” (E) [RESTRICTED] if unauthorised disclosure of the information would be contrary to the interests mentioned in Art. 20, para. 3 of the Federal Constitutional Law 
+
+
+
+Federal Constitutional Law, 
+
+Federal Constitutional Law. 
+
+(2) The originator of the information is responsible for classifying, declassifying as well as downgrading information. Declassification shall be recorded in writing. The recipients of classified information shall be informed of declassification. 
+
+
+§ 4. (1) Only persons who were subject to a security clearance procedure in accordance with § 3 para. 1 of the Information Security Act, which is required for the highest qualification level applied in the respective unit of the department may be appointed as Information Security Officers and their deputies. 
+(2) The Information Security Officers have the task of ensuring that within their sphere of responsibility 
+1.information security is guaranteed through organisational measures, 
+
+2.monitoring of compliance with the Information Security Act, this Ordinance and other information security provisions is guaranteed, 
+3.an annual review of security arrangements for protecting classified information is conducted, 
+	4.	instructions in accordance with § 6 are given in a demonstrable way, 
+	5.	the required records are kept in accordance with § 5 para. 1 and § 12, 
+	6.	the rules concerning access, transmission and storage of classified information are complied with, 
+	7.	any suspicion of punishable offences relating to information security is reported to the head of the department, 
+	8.	measures are taken with a view to remedying immediately any defects identified, 
+	9.	any violations of security regulations knowledge of which might be relevant also outside the respective sphere of responsibility are reported to the Information Security Commission and 
+	10.	reports requested by the Information Security Commission are submitted. 
+Access to classified information
+§ 5. (1) Access to classified information may not be granted unless the requirements of § 3 of the Information Security Act are met; a record shall be kept of the names of persons who actually had access to information classified as CONFIDENTIAL, SECRET and TOP SECRET, the date and time of access as well as the level of classification (sample: Annex 1). 
+(2) An employee of the federal civil service may not be granted access unless 
+	1.	this is necessary for fulfilling his official duties, 
+	2.	the employee was provably instructed on managing classified information in accordance with § 6 and 
+	3.	a security clearance procedure in accordance with §§ 55 to 55b of the Security Police Act (Sicherheitspolizeigesetz) or a reliability screening in accordance with §§ 23 and 24 of the Act on the Powers of the Military (Militärbefugnisgesetz) was conducted in respect of information classified as CONFIDENTIAL, SECRET and TOP SECRET. 
+(3) Other persons may not be granted access unless  
+1.this is necessary for performing a task in the public interest, 
+
+2.the requirements of para. 2 points 2 and 3 are met and the level of protection defined by the responsible service is ensured and 
+3.they agreed to keep classified information secret even after the completion of their duties.  
+(4) By taking suitable measures of internal organisation, each unit of a department shall ensure that employees have access to classified information only when performing their official duties, after having received instructions in a demonstrable way and – if applicable – after being security cleared or reliability screened. This shall apply mutatis mutandis to access granted to other persons as well.
+(5) An employee of the federal government may not seek access to classified information unless he has ensured that the requirements stipulated in para. 2 have been met. 
+Instructions
+§ 6. (1) In accordance with § 5 para. 4, instructions shall in any event be given regarding the Information Security Act, this Ordinance, any applicable requirements under international law and European Union law, written implementing rules of the department as well as secrecy obligations and sanctions imposed in the event of violations of these requirements. 
+(2) The purpose of instructions is to raise awareness of the security risks of classified information and to ensure that the security standards defined are complied with and that all security violations, or any suspicion thereof, are reported. Instructions shall be given before granting access to classified information and shall be repeated regularly. Evidence that these instructions were given shall be recorded in writing (sample: Annex 2). 
+Transmission of classified information
+§ 7. (1) Before the transmission of classified information it is necessary to ensure that the recipient meets the requirements of the Information Security Act and of this Ordinance based on an examination of the individual case or by complying with the applicable general rules. 
+(2) Within the framework of mutual assistance between authorities, classified information may not be transmitted unless the body filing the request demands this explicitly and proves that it is capable of guaranteeing the necessary standard of protection and of meeting the personnel requirements laid down in the Ordinance. The Information Security Officer shall be informed of any intention to pass on information. 
+(3) Documents classified as RESTRICTED shall be transmitted in a sealed envelope. Documents classified as CONFIDENTIAL or having a higher classification level shall be transmitted in a double non-transparent envelope; the classification level – including the address of the recipient – shall be stated only on the inside of the envelope, and a receipt shall be attached (sample: Annex 3). It must not be possible to draw conclusions on the content from any notes on the outside of the envelope. 
+(4) The written consent of the originator is a prerequisite for transmitting information classified as TOP SECRET. 
+(5) Transmission of classified information to third countries or international organisations as well as to a contractor established in a third country is subject to the prior consent of the originator unless requirements laid down in international law or European Union law provide for transmission without consent. 
+(6) Classified information shall be transmitted in the following way: 
+	1.	Oral transmission: In meetings dealing with content classified as CONFIDENTIAL or above the chairperson of the meeting shall ensure that a security clearance or a reliability screening was carried out on all participants  and that all participants have received the instructions accordingly. Records shall be classified. If information classified as a SECRET or TOP SECRET is presented orally, measures shall be taken against unauthorised interception. 
+	2.	Personal transmission: Personally transmitted information classified as CONFIDENTIAL or above shall be delivered against receipt. Information shall be transmitted within a building by persons duly authorised for the respective classification level and in a sealed envelope stating merely the name of the recipient; receipt of the envelope shall be acknowledged with a receipt. Within a building or a closed group of buildings, information up to the classification level TOP SECRET may be handled in a sealed non-transparent envelope. 
+3.Transmission by delivery services (mail services or private courier services), military and diplomatic couriers and via diplomatic pouch: 
+	a)	Classified information of the level RESTRICTED may be delivered by mail services or private couriers, military and diplomatic couriers, via diplomatic pouch or in the hand luggage of a person who was instructed accordingly. The Information Security Commission is responsible for taking decisions on compliance with protective measures. 
+Classified information of the level CONFIDENTIAL 
+
+	–	may be transmitted by mail services or private couriers within the EU Member States as well as in states with which a bilateral agreement in accordance with § 14 of the Information Security Act or another agreement under international law laying down requirements regarding the transmission of this type of information in the aforementioned way was entered into – provided that these services ensured adequate protective measures; the Information Security Commission is responsible for taking decisions on compliance with protective measures; 
+	–	may be transmitted via diplomatic pouch or by military and diplomatic couriers as well as in hand luggage provided that the person (or courier) transmitting the classified information has been security cleared for the classification level of at least up to CONFIDENTIAL and was duly authorised (sample: Annex 4). 
+	c)	Classified information of the level SECRET 
+	–	may be delivered in Austria by the mail services or private courier services provided that adequate protective measures were taken by them; the Information Security Commission is responsible for taking decisions on compliance with protective measures; 
+	–	may be transported by military and diplomatic couriers as well as in hand luggage provided that the person (or the courier) transmitting the classified information has been security cleared for a classification level of at least up to SECRET and was duly authorised (sample: Annex 4); 
+	–	may in exceptional cases be transmitted via diplomatic pouch provided that no other way of transmission is available. 
+	d)	Information classified as TOP SECRET may be transported by military and diplomatic couriers as well as in hand luggage provided that the person (or courier) transmitting classified information has been security cleared for a classification level up to TOP SECRET and was duly authorised (sample: Annex 4). 
+Marking
+§ 8. (1) Classified information shall be marked in a clear and easily visible manner in accordance with § 3 or the rules laid down in international law or European Union law. 
+(2) Hardcopy information shall be marked with the date, reference number, originator and on the top and bottom of each page the marking and page number. If required, the following data may be included: 
+1.identification of the originator,
+
+2.other information, e.g. dissemination restrictions (on each page); 
+
+3.date for downgrading the classification level. 
+
+(3) As far as electronic information is concerned, the classification level shall be added to the name of the file. 
+(4) Any annexes and attachments shall be listed on the first page of documents classified as CONFIDENTIAL or above. 
+Electronic processing and transmission of classified information
+§ 9. (1) The processing of classified information in information and communication systems is subject to special security measures, which depend on
+
+
+
+
+the type and scope of networks, 
+
+storage facilities and 
+
+5.local circumstances. 
+
+(2) Information classified as CONFIDENTIAL or above may be processed in all information and communication systems provided that they have been accredited by the Information Security Commission. The specific prerequisites (requirements as well as the degree and level of detail) shall be laid down in cooperation with the Information Security Commission. For the use of information and communication systems that process information classified RESTRICTED, depending on the type and scope of the system (risk level or complexity and networking), the requirements laid down by the Information Security Commission shall be taken into account. Measures shall in any event be taken to identify and record access to these systems. As far as information and communication systems used to fulfil tasks of the Federal Army in accordance with Article 79 para. 1 of the Federal Constitutional Law are concerned, this task is performed by the certification body appointed by the Federal Minister of National Defence and Sports for his sphere of competence. 
+(3) Information classified as CONFIDENTIAL or above which is processed by electronic devices shall be protected in a way that prevents unauthorised access to the information through electromagnetic emissions (TEMPEST security arrangements). 
+(4) If classified information is transmitted electronically, it is necessary to comply with special security arrangements, in particular encryption commensurate with the respective level of classification, as well as the requirements laid down by the Information Security Commission. Irrespective of these requirements, special procedures or special technical configurations may be applied as deemed necessary by the Information Security Commission in emergency situations. The transmission of information classified as CONFIDENTIAL or above shall be recorded in accordance with the requirements of the Information Security Commission by using qualified signature or, in the event of automatic transmission, based on technically equivalent security requirements. 
+(5) The interconnection of an information and communication system in which classified information is processed with other systems is subject to protective measures. 
+Official duties
+§ 10. (1) The respective supervisors shall have the duty of knowing those of their staff members who have access to classified information. They shall also ensure that access is not granted unless the requirements laid down in the relevant provisions are met. 
+(2) Persons who are granted access to classified information shall maintain secrecy regarding the information obtained in this way and comply with the respective standards of protection. They shall in particular have the duty of reporting without delay any suspicion of espionage as well as any unusual circumstances affecting the security of information to the Information Security Officer. Other legal reporting duties shall remain unaffected thereby. 
+(3) The loss of classified information shall be reported without delay to the head of service and the Information Security Officer. They shall take all measures deemed necessary to find the respective piece of information, to avoid other disadvantages and to clear up the incident. These measures shall be recorded in the appropriate way. The entity which issued the information shall also be informed of this loss. 
+Administrative management
+§11. (1) Classified official documents of the classification levels CONFIDENTIAL, SECRET and TOP SECRET shall be entered into a special register (sample: Annex 1). Each official document shall be marked with a specific reference number, the document name, the number of the copy, the date and respective classification level.  
+(2) The administrative systems relating to classified systems shall be protected against unauthorised access and loss in the appropriate way. 
+Registration of classified information
+§ 12. (1) The receipt and dispatch of each document classified as CONFIDENTIAL or above shall be registered. Besides the information required by § 11 para. 1, the originator, time and date of receipt and of transmission as well as the administrative unit shall also be recorded in the register (sample: Annex 1). Each phase of the circulation of classified information shall be recorded in the appropriate way. 
+(2) Registries for the classification levels CONFIDENTIAL and SECRET shall have a classification level of at least RESTRICTED, registries for the classification level TOP SECRET shall be marked with the classification level SECRET.
+(3) Paras. 1 and 2 shall be applicable mutatis mutandis to electronic registration. 
+Storage of classified information
+§ 13. (1) Information shall be stored safely in the offices in accordance with the respective classification level and may not be retrieved unless this is absolutely necessary for official reasons.  
+(2) The following secure areas shall be established for the physical protection of classified information: 
+1.Administrative areas: areas which are clearly distinguishable from the exterior allowing checks to be made of persons and vehicles, which may be accessed only by authorised persons. All other persons shall be escorted or controlled by equivalent measures. 
+	2.	Highly protected areas: areas which are clearly distinguishable and protected with full access control (checking of identification cards or checks based on identification class 2 in accordance with ÖNORM EN 50133-1:2003 “Alarm Systems – Access Control Systems for Use in Security Applications” of 1 November 2003) and exit control (checks based on identification class 0 in accordance with ÖNORM EN 50133-1:2003), which may be accessed unescorted only by persons who are security cleared, reliability screened or by specially authorised persons. All other persons shall be escorted or controlled by equivalent measures. 
+	3.	Highly protected areas with interception protection: areas with additional technical protection and equipped with intrusion detection systems. Unauthorised communication connections or electronic equipment or communication devices are prohibited. Persons entering this area shall be checked for carrying prohibited devices with them. Regular inspections and technical checks shall be performed.
+(3) The selection of suitable measures to ensure the physical protection of premises is based on the assessment of the threat by the responsible authorities. In this process administrative and highly protected areas shall be distinguished. Such measures or a mix of measures may be as follows: 
+1.access barrier; 
+
+2.intrusion detection system; 
+
+3.access control;
+
+4.security staff; 
+
+5.video surveillance; 
+
+6.security lighting; 
+
+other suitable physical measures. 
+
+(4) Information in accordance with § 2 para. 2 points. 1, 2 and 4 of all classification levels shall be stored in locked containers. Locked containers are defined as office furniture for the classification level RESTRICTED and as secure storage units for information of the classification levels CONFIDENTIAL, SECRET or TOP SECRET, which are used based on assignment by the Information Security Commission. 
+(5) Instructions shall be issued for administrative areas and highly protected areas. 
+(6) The responsible Information Security Officer shall define procedures for the administration of keys and codes. These procedures must protect against unauthorised access. 
+Copies and translations
+§ 14. (1) Any copies and/or translations of documents of the classification level CONFIDENTIAL, SECRET or TOP SECRET shall be recorded in an appropriate way. Each copy shall be individualised by making an appropriate annotation, which shall be recorded on each page. Copies and translations of information classified as TOP SECRET by recipients require the prior written consent of the originator. Copies may be produced exclusively under the supervision of the respective head of the organisational unit and by marking them as copies. 
+(2) Documents of the classification levels CONFIDENTIAL, SECRET or TOP SECRET may be photocopied, copied by hand, translated, scanned, archived or processed only by persons meeting the requirements of § 5 para. 2. 
+Destruction of classified information
+§ 15. (1) The volume of classified information shall be kept as small as possible. Information, which is no longer required, shall be destroyed by using the appropriate procedures and by taking into account international and national requirements. Documents subject to registration are destroyed by the responsible registry following the instructions of the head of the unit responsible for storing them, and the registration information will be updated accordingly. Information of the classification levels SECRET or above shall be destroyed in the presence of a witness who is security cleared or reliability screened for the respective classification level. This shall be noted in the minutes and signed (sample: Annex 5). The destruction of data carriers shall conform to the procedures approved by the Information Security Commission. 
+(2) The head of the unit storing information shall determine when classified information shall be destroyed. If no deadline has been determined, the information shall be destroyed after seven years.
+Measures for the protection of the exchange of classified information for Galileo PRS
+§ 16. (1) In Austria, the Federal Chancellery performs all duties and responsibilities of the Galileo PRS Authority in accordance with Decision 1104/2011/EU on the rules for access to the public regulated service provided by the global navigation satellite system established under the Galileo programme, OJ No. L 287 of 04.11.2011 p.1.
+(2) The Information Security Commission established in accordance with § 8 Information Security Act shall be informed and heard regularly on all aspects concerning information security in this regard. 
+Control
+§ 17. The Information Security Officer shall examine or have examined the information security system annually in a demonstrable way. In particular, the completeness of records, the safety of containers, the key management system and the security measures taken to protect communication and information systems shall be examined. In the event of information of the classification level SECRET or TOP SECRET, a complete review of the procedures of the preceding year shall be performed.
+Entry into force
+§ 18. § 16 as amended by the federal law promulgated in Federal Law Gazette II No. 268/2022 shall enter into force on the day following promulgation.
+
